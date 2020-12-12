@@ -12,11 +12,11 @@ The goal is to refactor the code that the marketing company sent. I tried to mak
 
 These are the requirements I had to meet: 
  
-![image of the acceptance criteria](acceptance-criteria.png)
+![AcceptanceCriteria](acceptance-criteria.png)
 
 The front-end development must stay the same as:
 
-![image of the mockup](mockup-img.png)
+![MockUp](mockup-img.png)
 
 ## Purpose
 
